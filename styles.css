@@ -1,6 +1,13 @@
 body{
     background-color: aquamarine;
 }
-p{
+#titulo{
     color: chocolate;
+    font-size: 80px;
+
+}
+
+#subtitulo{
+    color: blue;
+    font-size: 50px;
 }
